@@ -44,6 +44,7 @@ ul {
   display: flex;
   justify-content: space-between;
   gap: 1000px;
+  padding: 10px;
 }
 
 a {
@@ -53,4 +54,9 @@ a {
 .buttons {
   text-align: center;
   margin-top: 20px;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
